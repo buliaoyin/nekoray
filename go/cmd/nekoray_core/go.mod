@@ -1,8 +1,8 @@
 module nekoray_core
 
-go 1.21
+go 1.20
 
-toolchain go1.21.0
+toolchain go1.20.8
 
 require (
 	github.com/jsimonetti/rtnetlink v1.2.2
